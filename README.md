@@ -29,8 +29,8 @@ To simplify deployment and scalability, the system is split into two repositorie
 
 | Component | Repository | Deployment |
 |----------|-----------|-----------|
-| Web Interface | https://github.com/TEEJASK/agentic-economy-on-arc | Vercel |
-| Backend (A2A Engine) | https://github.com/TEEJASK/agentic-economy-on-arc-backend | Railway |
+| Web Interface | https://github.com/TeejasK/agentic-economy-on-arc-main | Vercel |
+| Backend (A2A Engine) | https://github.com/TeejasK/agentic-economy-on-arc-backend | Railway |
 
 > If only one repository is required for submission, use the Web UI repo and reference the backend in the README.
 
