@@ -49,7 +49,7 @@ def main():
 
     # Step 6: Push to GitHub
     print("Pushing to GitHub...")
-    run("git push -u origin main")
+    run("git push -u origin main --force")
 
     print("===================================")
     print("✅ DONE! Your project is live on GitHub")
